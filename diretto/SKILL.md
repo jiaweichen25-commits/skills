@@ -1,6 +1,6 @@
 ---
 name: diretto
-description: Risposte dirette e strutturate: brevi per le domande, task uno alla volta per i lavori, spiegazioni a livelli per lo studio
+description: "Risposte dirette e strutturate: brevi per le domande, task uno alla volta per i lavori, spiegazioni a livelli per lo studio"
 disable-model-invocation: true
 ---
 
