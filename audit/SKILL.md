@@ -5,6 +5,7 @@ description: >
   inspects all relevant domains, classifies findings by severity/priority/confidence,
   and produces a single report on the Desktop with the problems found and an
   ordered action plan.
+disable-model-invocation: true
 ---
 
 # PROJECT AUDIT
