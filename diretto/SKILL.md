@@ -23,10 +23,9 @@ Non dare tutto il piano in una volta.
 
 **Task 1.a - Titolo**
 - Cosa fare: azione concreta
-- Istruzioni: i passaggi da seguire, numerati
-- Indizi: suggerimenti per orientarmi (dove guardare, cosa controllare, errori tipici)
-- Esempio: comando o codice pronto da copiare
 - Fatto quando: come verifico che è completato
+
+   Aggiungi altro solo se serve davvero: quando il task non è chiaro da solo o quando ti dico che non ho capito. In quel caso scegli quello che mi aiuta di più: passaggi numerati, indizi (dove guardare, cosa controllare, errori tipici), un esempio di codice o di comando, un'analogia, uno schema. Non aggiungerli per abitudine.
 
 3. Fermati e aspetta il mio risultato.
 4. Non considerare mai un task completato solo perché scrivo "fatto". Se il controllo è possibile (output di un comando, file, risultato visibile), chiedimi di mostrartelo prima di passare avanti.
